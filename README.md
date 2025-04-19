@@ -36,9 +36,9 @@
 
 ### 🌐 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murilo-duarte-moura-de-almeida-4917091a6)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muriloduartemouradealmeida@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531993557359)
+- **Linkedin** https://linkedin.com/in/murilo-duarte-moura-de-almeida-4917091a6
+- **Email** muriloduartemouradealmeida@gmail.com
+- **WhatsApp** https://wa.me/5531993557359
 
 ---
 
