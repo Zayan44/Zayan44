@@ -1,14 +1,8 @@
-<h1 align="center">Murilo Duarte M. de Almeida👋</h1>
-
-<p align="center">
-  Graduando de Engenharia de Software | Aprendiz Administrativo na Minasmáquinas🚀<br>
-</p>
-
----
+<h1 align="center">Murilo Duarte M. de Almeida</h1>
 
 ### 👨‍💻 Sobre mim
 
-- 🎓 Graduação em **Engenharia de Software**
+- 🎓 Graduação em **Engenharia de Software** pela PUC Minas.
 - 💼 Trabalhando como aprendiz administrativo na <b>Minas Máquinas</b>
 - 🔧 Conhecimentos em **Java**, **C**, **C++**, **JavaScript**, **HTML**, **CSS**, **Bootstrap**, **React** e **Git**.
 - 🧠 Noção do desenvolvimento por meio de métodos tradicionais e métodos agéis, como, por exempo, **Scrum**.
