@@ -29,7 +29,6 @@
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=zayan44&show_icons=true&theme=tokyonight" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayan44&layout=compact&theme=tokyonight" />
 </div>
 
 ---
