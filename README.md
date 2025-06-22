@@ -3,7 +3,7 @@
 ### 👨‍💻 Sobre mim
 
 - 🎓 Graduação em **Engenharia de Software** pela PUC Minas | 3° Período.
-- 💼 Trabalhando como aprendiz administrativo na <b>Minas Máquinas</b>
+- 💼 Trabalhando como aprendiz administrativo na <b>Minasmáquinas</b>
 - 🔧 Conhecimentos em **Java**, **C**, **C++**, **JavaScript**, **HTML**, **CSS**, **Bootstrap**, **React** e **Git**.
 - 🧠 Noção do desenvolvimento por meio de métodos tradicionais e métodos agéis, como, por exempo, **Scrum**.
 
