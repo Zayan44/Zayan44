@@ -23,16 +23,6 @@
 
 ---
 
----
-
-### 📈 Estatísticas
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=zayan44&show_icons=true&theme=tokyonight" />
-</div>
-
----
-
 ### 🌐 Contato
 
 - **Linkedin** https://linkedin.com/in/murilo-duarte-moura-de-almeida-4917091a6
