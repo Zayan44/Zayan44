@@ -1,18 +1,70 @@
-<h1 align="center">Murilo Duarte M. de Almeida</h1>
+<h1 align="center">👋 Murilo Duarte M. de Almeida</h1>
 
-Graduando em Engenharia de Software, aprendendo React e Java com SQL 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BernardoApl&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+Estudando React, Java e Python
+
+---
+
+## Tecnologhs
+
+<table align="center">
+  <tr>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/><br><sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50"/><br><sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/><br><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/><br><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/><br><sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/><br><sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/><br><sub><b>React</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="50" height="50"/><br><sub><b>n8n</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50"/><br><sub><b>Firebase</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/><br><sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" height="50"/><br><sub><b>Spring Boot</b></sub>
+    </td>
+  </tr>
+</table>
+
+
+###
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zayan44&theme=dark)
+
+###
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+[![Top Languages by Commits - BernardoApl](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zayan44&theme=tokyonight)](https://github-profile-summary-cards.vercel.app/)
+
+</div>
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
 
 
