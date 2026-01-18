@@ -17,9 +17,6 @@ Estudando React, Java e Python
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/><br><sub><b>Java</b></sub>
     </td>
     <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50"/><br><sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="80">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/><br><sub><b>JavaScript</b></sub>
     </td>
     <td align="center" width="80">
@@ -33,12 +30,6 @@ Estudando React, Java e Python
     </td>
     <td align="center" width="80">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/><br><sub><b>React</b></sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="50" height="50"/><br><sub><b>n8n</b></sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50"/><br><sub><b>Firebase</b></sub>
     </td>
     <td align="center" width="80">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/><br><sub><b>PostgreSQL</b></sub>
