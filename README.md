@@ -7,7 +7,7 @@
 
 Estudando:
 
-React, Java, C#, .NET e PostgreSQL
+React, Java, Python, C#, .NET e PostgreSQL
 
 ---
 
