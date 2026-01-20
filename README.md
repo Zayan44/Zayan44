@@ -34,6 +34,9 @@ React, Java, C#, .NET e PostgreSQL
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/><br><sub><b>React</b></sub>
     </td>
     <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50"/><br><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="80">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/><br><sub><b>PostgreSQL</b></sub>
     </td>
     <td align="center" width="80">
