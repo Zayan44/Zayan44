@@ -19,6 +19,9 @@ React, Java, Python, C#, .NET e PostgreSQL
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/><br><sub><b>Java</b></sub>
     </td>
     <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/><br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="80">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/><br><sub><b>JavaScript</b></sub>
     </td>
     <td align="center" width="80">
