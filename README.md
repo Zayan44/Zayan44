@@ -5,7 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=BernardoApl&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-Estudando React, Java e Python
+Estudando:
+
+React, Java, C#, .NET e PostgreSQL
 
 ---
 
